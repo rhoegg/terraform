@@ -44,7 +44,7 @@ ensure Terraform remains stable.
 
 We make the distinction between these two types of providers to help
 highlight the vast amounts of community effort that goes in to making Terraform
-great, and to help contributers better understand the role HashiCorp employees
+great, and to help contributors better understand the role HashiCorp employees
 play in the various areas of the code base.
 
 ## Issues
@@ -52,7 +52,7 @@ play in the various areas of the code base.
 ### Issue Reporting Checklists
 
 We welcome issues of all kinds including feature requests, bug reports, and
-general questions. Below you'll find checklists with guidlines for well-formed
+general questions. Below you'll find checklists with guidelines for well-formed
 issues of each type.
 
 #### Bug Reports
